@@ -1,0 +1,2 @@
+// transactionStatus.js
+module.exports = {};

@@ -1,0 +1,2 @@
+// paymentStatus.js
+module.exports = {};

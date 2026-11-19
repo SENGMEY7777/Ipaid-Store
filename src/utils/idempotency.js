@@ -1,0 +1,2 @@
+// idempotency.js
+module.exports = {};

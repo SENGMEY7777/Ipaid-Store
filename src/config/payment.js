@@ -1,0 +1,2 @@
+// payment.js
+module.exports = {};

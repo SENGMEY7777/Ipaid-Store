@@ -1,0 +1,2 @@
+// appError.js
+module.exports = {};

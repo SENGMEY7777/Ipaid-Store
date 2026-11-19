@@ -1,0 +1,2 @@
+// invoice.js
+module.exports = {};

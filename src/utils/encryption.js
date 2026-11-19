@@ -1,0 +1,2 @@
+// encryption.js
+module.exports = {};
